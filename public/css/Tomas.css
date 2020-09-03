@@ -1,0 +1,26 @@
+ *{ 
+    margin:0px;
+    padding:0px;
+ }
+ .navigation{
+    background-color: silver;
+    padding: 4px;
+} 
+.navigation ul{
+    list-style: none;  
+}
+.navigation ul li{
+    display: inline;  
+      
+}
+.navigation a{  
+    text-decoration: none;
+    color: black;   
+    margin-right: 10px;
+    margin-left: 10px;    
+}
+.navigation a:hover{
+    color: white;
+      
+}
+ 

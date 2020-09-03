@@ -1,0 +1,23 @@
+/* fonts  */
+.font-white{
+    color: white !important;
+}
+
+/* margins  */
+.mgn-10{
+    margin: 19px
+}
+.mgn-btm-10{
+    margin-bottom: 10px;
+}
+.mt-5{
+    margin-top: 5px;
+}
+/* paddings */
+
+.bold{
+    font-weight: bold !important;
+}
+ .deco-none{
+     text-decoration: none;
+ }
